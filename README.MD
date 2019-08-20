@@ -8,13 +8,13 @@ Course Project
 ==================================================================
 ## Description
 
-This file, titled 'README_wearables,' is intended to be read by users interested in running or evaluating the Course Project for the Getting and Cleaning Data course on Coursera in this GitHub repository.
+This file, titled 'README,' is intended to be read by users interested in running or evaluating the Course Project for the Getting and Cleaning Data course on Coursera in this GitHub repository.
 
 Please note that the dataset on which this project is based is cited at the bottom of this file as footnote [1].
 
 ## Contents of Repository
 
-- `README_wearables.md`: This file, which describes the other files in the repository.
+- `README.md`: This file, which describes the other files in the repository.
 
 - `CodeBook.md`: A file that summarizes the variables and data fields involved in the Course Project for Getting and Cleaning Data, as well as the transformations and work performed to clean up the data.
 
